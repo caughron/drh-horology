@@ -1,0 +1,3 @@
+So far this project contains code for a C# Winform application that calculates the shape of cycloidal gears and saves them as SVG (http://en.wikipedia.org/wiki/Scalable_Vector_Graphics). The calculations are based on the information that Hugh Sparks provides on his web site http://www.csparks.com/watchmaking/CycloidalGears/index.jhtml.
+
+For a more detailed description please see my associated blog entry: http://www.hessmer.org/blog/2012/01/28/cycloidal-gear-builder/
